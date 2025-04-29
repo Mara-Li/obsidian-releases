@@ -758,9 +758,9 @@
     {
         "id": "obsidian-vault-changelog",
         "name": "Vault Changelog",
-        "description": "Maintain a changelog of recently edited files in your vault.",
+        "description": "Maintain a changelog of recently edited notes.",
         "author": "Badr Bouslikhin",
-        "repo": "badrbouslikhin/obsidian-vault-changelog"
+        "repo": "philoserf/obsidian-vault-changelog"
     },
     {
         "id": "chesser-obsidian",
@@ -1274,13 +1274,6 @@
         "repo": "oeN/liquid-template"
     },
     {
-        "id": "better-fn",
-        "name": "Better footnote",
-        "description": "Display footnotes inline as a popover.",
-        "author": "AidenLx",
-        "repo": "aidenlx/better-fn"
-    },
-    {
         "id": "obsidian-dropbox-backups",
         "name": "Aut-O-Backups",
         "description": "Automated Dropbox backups of your entire vault.",
@@ -1480,7 +1473,7 @@
         "id": "copy-url-in-preview",
         "name": "Image Context Menus",
         "author": "NomarCub",
-        "description": "Copy, open in default app, show in system explorer, reveal in navigation context menu for images. Also Open PDF externally context menu.",
+        "description": "Image context menus (mostly on right click): Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab.",
         "repo": "NomarCub/obsidian-copy-url-in-preview"
     },
     {
@@ -1515,7 +1508,7 @@
         "id": "open-vscode",
         "name": "Open vault in VS Code",
         "author": "NomarCub",
-        "description": "Ribbon button and command to open vault as a Visual Studio Code workspace.",
+        "description": "Ribbon button and command to open vault as a Visual Studio Code (VSCode) workspace.",
         "repo": "NomarCub/obsidian-open-vscode"
     },
     {
@@ -1820,13 +1813,6 @@
         "repo": "zapthedingbat/drawio-obsidian"
     },
     {
-        "id": "obsidian-vim-im-switch-plugin",
-        "name": "Vim Input Method Switch",
-        "description": "Switch input method with fcitx-remote when Vim keymap is enabled.",
-        "author": "yuanotes",
-        "repo": "yuanotes/obsidian-vim-im-switch-plugin"
-    },
-    {
         "id": "luhman",
         "name": "Luhman",
         "author": "Dylan Elliott",
@@ -1999,7 +1985,7 @@
         "name": "Workspaces Plus",
         "description": "Quickly switch and manage workspaces.",
         "author": "NothingIsLost",
-        "repo": "nothingislost/obsidian-workspaces-plus"
+        "repo": "jsmorabito/obsidian-workspaces-plus"
     },
     {
         "id": "obsidian-read-it-later",
@@ -3795,9 +3781,9 @@
     },
     {
         "id": "obsidian-task-progress-bar",
-        "name": "Task Progress Bar",
+        "name": "Task Genius",
         "author": "Boninall",
-        "description": "A task progress bar for tasks.",
+        "description": "Comprehensive task management that includes progress bars, task status cycling, and advanced task tracking features.",
         "repo": "Quorafind/Obsidian-Task-Progress-Bar"
     },
     {
@@ -5747,13 +5733,6 @@
         "repo": "Leonezz/obsidian-tasks-calendar-wrapper"
     },
     {
-        "id": "awesome-brain-manager",
-        "name": "Awesome Brain Manager",
-        "description": "A toolkit that tries to solve all the trivial problems most people usually encounter.",
-        "author": "Juck",
-        "repo": "JuckZ/awesome-brain-manager"
-    },
-    {
         "id": "open-in-new-tab",
         "name": "Open In New Tab",
         "author": "patleeman",
@@ -7483,13 +7462,6 @@
         "repo": "Falcion/UNITADE.md"
     },
     {
-        "id": "python-scripter",
-        "name": "Python Scripter",
-        "author": "Nick Allison",
-        "description": "Run Python scripts directly as commands.",
-        "repo": "nickrallison/obsidian-python-scripter"
-    },
-    {
         "id": "quicknote",
         "name": "Quick note",
         "author": "James Greenhalgh MBCS",
@@ -7530,13 +7502,6 @@
         "author": "Interweb Alchemy",
         "description": "A Prompt Engineering research utility for generative AI models like OpenAI's ChatGPT that facilitates archiving and searching conversations and live editing a conversation's context/memory.",
         "repo": "InterwebAlchemy/obsidian-ai-research-assistant"
-    },
-    {
-        "id": "wallabag",
-        "name": "Wallabag",
-        "author": "H\u00fcseyin Zengin",
-        "description": "Sync your Wallabag articles.",
-        "repo": "huseyz/obsidian-wallabag"
     },
     {
         "id": "red-pen",
@@ -8263,7 +8228,7 @@
         "id": "screengarden-obsidian",
         "name": "screen.garden",
         "author": "screengarden, LLC",
-        "description": "A live collaboration, publishing, and web editing service for your PKM.",
+        "description": "Realtime multiplayer collaboration, live cursors without merge conflicts, folder sync, share links, web editing, and more—for teams or working solo.",
         "repo": "screendotgarden/screengarden-obsidian"
     },
     {
@@ -8960,13 +8925,6 @@
         "repo": "shadowoption/Hunchly-obsidian-plugin"
     },
     {
-        "id": "tckr",
-        "name": "tckr",
-        "author": "Git-Sum",
-        "description": "Get your TickTicks!",
-        "repo": "Git-Sum/obsidian-tckr"
-    },
-    {
         "id": "periodic-table",
         "name": "Periodic Table",
         "author": "jake-cramer",
@@ -9548,13 +9506,6 @@
         "repo": "KubaMiszcz/MultiStateCheckBoxSwitcher"
     },
     {
-        "id": "relay-md",
-        "name": "Relay.md",
-        "description": "Quickly and easily share notes with your team. Uses topics to limit reach so that only team members subscribed to your topics will automatically receive the shared notes straight into their vault!",
-        "author": "xeroc",
-        "repo": "relay-md/relay-md-obsidian-plugin"
-    },
-    {
         "id": "insighta",
         "name": "InsightA",
         "author": "Hongjian Tang",
@@ -9817,7 +9768,7 @@
         "id": "protected-note",
         "name": "Protected Note",
         "author": "Mikail Gadzhikhanov",
-        "description": "Set password and encrypt your notes to protect them from other people.",
+        "description": "Set password to protect your notes from other people. Simple, Fast.",
         "repo": "mmiksaa/obsidian-protected-note"
     },
     {
@@ -10123,9 +10074,9 @@
     },
     {
         "id": "fileorganizer2000",
-        "name": "AI File Organizer 2000",
+        "name": "Note Companion AI",
         "author": "Benjamin Ashgan Shafii",
-        "description": "AI assistant to automatically organize, chat, and format your notes. Works with images, PDFs, and your voice",
+        "description": "AI that goes beyond the chat interface. Enhance your meetings notes with live transcriptions, sync your handwritten jots, and let AI organize your vault.",
         "repo": "different-ai/file-organizer-2000"
     },
     {
@@ -10145,9 +10096,9 @@
     {
         "id": "canvas-link-optimizer",
         "name": "Canvas Link Optimizer",
-        "author": "khaelar",
+        "author": "Qbject",
         "description": "Optimize Canvas links by displaying a page thumbnail.",
-        "repo": "khaelar/obsidian-canvas-link-optimizer"
+        "repo": "Qbject/obsidian-canvas-link-optimizer"
     },
     {
         "id": "inline-admonitions",
@@ -12337,7 +12288,7 @@
         "id": "iconic",
         "name": "Iconic",
         "author": "Holo",
-        "description": "Customize your icons and their colors directly from the UI, including tabs, files, bookmarks, properties, and ribbon commands.",
+        "description": "Customize your icons and their colors directly from the UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.",
         "repo": "gfxholo/iconic"
     },
     {
@@ -12792,7 +12743,7 @@
         "id": "harper",
         "name": "Harper",
         "author": "Elijah Potter",
-        "description": "The grammar checker for everyone.",
+        "description": "The fastest grammar and spell checker that respects your privacy.",
         "repo": "elijah-potter/harper-obsidian-plugin"
     },
     {
@@ -13247,7 +13198,7 @@
         "id": "pexels-banner",
         "name": "Pixel Banner",
         "author": "Justin Parker",
-        "description": "Apply an image from various sources as a banner to your notes.",
+        "description": "Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary.",
         "repo": "jparkerweb/pixel-banner"
     },
     {
@@ -13597,7 +13548,7 @@
     "id": "advanced-copy",
     "name": "Advanced Copy",
     "author": "leschuster",
-    "description": "Copy Markdown and transform it according to your needs.",
+    "description": "Copy Markdown and transform it into HTML, Anki, or any custom format. Create custom profiles with versatile templates tailored to your workflow.",
     "repo": "leschuster/obsidian-advanced-copy"
   },
   {
@@ -13987,10 +13938,10 @@
 },
 {
 "id": "automatic-renumbering",
-"name": "Automatic List Renumbering",
+"name": "Automatic List Reordering",
 "author": "Omri Levi",
-"description": "Automatically renumber numbered lists as you edit them.",
-"repo": "OmriLeviGit/Automatic-Renumbering-Obsidian"
+"description": "Automatically reorder checklists and numbered lists as you edit them.",
+"repo": "OmriLeviGit/Auto-List-Reordering-Obsidian"
 },
 {
     "id": "three-noun-prompts",
@@ -14746,7 +14697,7 @@
     "name": "Photopea Editor",
     "author": "KarmaToast40340",
     "description": "Automatically opens images in Photopea when clicked in your vault.",
-    "repo": "KarmaToast40340/photopea-editor" 
+    "repo": "KarmaToast40340/photopea-editor"
   },
   {
     "id": "easy-timeline",
@@ -14888,14 +14839,14 @@
     "description": "Track the time left till Christmas.",
     "repo": "Matse2005/Obsidian-Christmas"
   },
- {
+  {
     "id": "type-chinese-like-english",
     "name": "Type Chinese Like English",
     "author": "Hwenyi",
     "description": "Convert pinyin to Chinese and LaTeX",
     "repo": "Hwenyi/obsidian-type-chinese-like-english"
- },
- {
+  },
+  {
     "id": "external-rename-handler",
     "name": "External Rename Handler",
     "author": "mnaoumov",
